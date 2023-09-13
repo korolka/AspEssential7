@@ -1,0 +1,15 @@
+﻿@using Ex1.Model
+@model List<ModelClass>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@foreach (ModelClass model1 in Model)
+{
+    <p>@model1.Id</p>
+    <p>@model1.Name</p>
+    <p>@model1.Description</p>
+    <p>--------------------------</p>
+};
+

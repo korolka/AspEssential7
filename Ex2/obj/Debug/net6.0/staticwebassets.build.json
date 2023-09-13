@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Jd0o5peYW3B4WPSFNHhu+b6m+yVG5a0FvCgQT5zSz4k=",
+  "Source": "Ex2",
+  "BasePath": "_content/Ex2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ex2\\wwwroot",
+      "Source": "Ex2",
+      "ContentRoot": "C:\\Users\\Vlad\\source\\repos\\AspEssential\\Ex2\\wwwroot\\",
+      "BasePath": "_content/Ex2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vlad\\source\\repos\\AspEssential\\Ex2\\wwwroot\\sun.png",
+      "SourceId": "Ex2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad\\source\\repos\\AspEssential\\Ex2\\wwwroot\\",
+      "BasePath": "_content/Ex2",
+      "RelativePath": "sun.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sun.png"
+    }
+  ]
+}

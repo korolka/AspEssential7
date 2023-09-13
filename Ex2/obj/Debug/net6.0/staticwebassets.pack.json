@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vlad\\source\\repos\\AspEssential\\Ex2\\wwwroot\\sun.png",
+      "PackagePath": "staticwebassets\\sun.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ex2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ex2.props",
+      "PackagePath": "build\\Ex2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ex2.props",
+      "PackagePath": "buildMultiTargeting\\Ex2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ex2.props",
+      "PackagePath": "buildTransitive\\Ex2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

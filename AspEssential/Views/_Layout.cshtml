@@ -1,0 +1,9 @@
+﻿@inject AspEssential.Services.ITimeNow ClassTime
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>View</h1>
+<p>@ClassTime.Time()</p>
+@RenderBody()
+
